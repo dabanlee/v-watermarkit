@@ -1,0 +1,29 @@
+{
+    "compilerOptions": {
+      "target": "esnext",
+      "module": "esnext",
+      "moduleResolution": "node",
+      "noImplicitAny": true,
+      "noImplicitThis": true,
+      "noImplicitReturns": true,
+      "sourceMap": true,
+      "esModuleInterop": true,
+      "allowSyntheticDefaultImports": true,
+    },
+    "paths": {
+      "@/*": ["src/*"],
+    },
+    "include": [
+      "src/**/*.ts",
+      "src/**/*.vue",
+      "types/**/*.d.ts",
+    ],
+    "files": [
+      "types/index.d.ts",
+      "types/vue-shims.d.ts",
+    ],
+    "exclude": [
+      "dist",
+      "node_modules",
+    ]
+  }
