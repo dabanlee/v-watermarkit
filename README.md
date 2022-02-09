@@ -55,7 +55,7 @@ const text = ref(`大板栗 banli.co`)
 
 ## ScreenShot
 
-![ScreenShot](./watermarkit.png)
+![ScreenShot](https://dabanlee.github.io/v-watermarkit/assets/images/watermarkit.png)
 
 ## Api
 
