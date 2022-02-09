@@ -1,7 +1,7 @@
 {
   "name": "v-watermarkit",
   "moduleName": "Watermarkit",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Watermarkit directive for Vue2/3.",
   "main": "dist/v-watermarkit.js",
   "module": "dist/v-watermarkit.es.js",
@@ -17,6 +17,7 @@
     "type": "git"
   },
   "author": "大板栗 <576839360@qq.com>",
+  "keywords": ["watermark", "Vue", "Vue3", "directive"],
   "license": "MIT",
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.11.0",
